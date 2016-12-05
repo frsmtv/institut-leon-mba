@@ -72,7 +72,7 @@ h1 {
 }
 
 #mainContainer {
-  /*padding: 6%;*/
+  padding: 6%;
 }
 #info {
   -webkit-box-shadow: 10px 10px 10px 0 #ccc;
@@ -99,9 +99,11 @@ footer i {
 /*********** RESPONSIVE ***********/
 
 /***** Large Screens *****/
+
+/***** 13" 15" Screens *****/
 @media only screen and (min-width : 1224px){
     #mainContainer {
-        margin-top: 20%;
+        /*margin-top: 5%;*/
     }
 }
 
