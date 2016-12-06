@@ -72,7 +72,7 @@ h1 {
 }
 
 #mainContainer {
-  padding: 6%;
+  padding: 4%;
 }
 #info {
   -webkit-box-shadow: 10px 10px 10px 0 #ccc;
@@ -81,7 +81,7 @@ box-shadow: 10px 10px 10px 0 #ccc;
 #info p {
   padding: 4%;
   text-align: justify;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   line-height: 1.5;
   color: #2fb57d;
 }
