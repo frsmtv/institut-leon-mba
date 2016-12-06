@@ -198,7 +198,6 @@ and (orientation : portrait) {
         font-size: 15px;
         text-align: left;
         line-height: 2;
-        text-transform: uppercase;
     }
 }
 
@@ -232,6 +231,5 @@ and (orientation : portrait) {
         font-size: 15px;
         text-align: left;
         line-height: 2;
-        text-transform: uppercase;
     }
 }
