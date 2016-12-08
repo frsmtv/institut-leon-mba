@@ -163,6 +163,9 @@ and (orientation : portrait) {
   header h1 {
     font-size: 3rem;
   }
+  footer span {
+      display: none;
+  }
 }
 
 /***** iPhone 6 Landscape *****/
@@ -199,6 +202,9 @@ and (orientation : portrait) {
         text-align: left;
         line-height: 2;
     }
+    footer span {
+        display: none;
+    }
 }
 
 /***** iPhone 5 Landscape *****/
@@ -231,5 +237,8 @@ and (orientation : portrait) {
         font-size: 15px;
         text-align: left;
         line-height: 2;
+    }
+    footer span {
+        display: none;
     }
 }
